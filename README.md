@@ -1,2 +1,3 @@
-# PPE3SIOSLAM
+# PPE3 SIO SLAM
 PPE3 - BTSSIO SLAM 2019-2020
+Projet Personnel Encadré
